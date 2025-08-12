@@ -201,9 +201,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Yasin Çarkçı**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
 ## 🙏 Acknowledgments
 
 - Linux community
@@ -212,10 +209,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📊 Statistics
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/ssh-brute-force-blocking)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/ssh-brute-force-blocking)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/ssh-brute-force-blocking)
+![GitHub stars](https://img.shields.io/github/stars/yilmazcarkci/ssh-brute-force-blocking)
+![GitHub forks](https://img.shields.io/github/forks/yilmazcarkci/ssh-brute-force-blocking)
+![GitHub issues](https://img.shields.io/github/issues/yilmazcarkci/ssh-brute-force-blocking)
 
 ---
+
 
 ⭐ If you like this project, don't forget to give it a star! 
